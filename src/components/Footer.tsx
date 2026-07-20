@@ -41,6 +41,9 @@ function Footer() {
             </div>
           </div>
         </div>
+         <div className="flex justify-center mt-8">
+          <img src="/images/PoweredByRefrens.png" alt="Accounting Powered by Refrens.com" className="h-12 w-auto" />
+        </div>
         <div className="border-t border-sand/20 mt-8 pt-8 text-center text-sand">
           <p>© 2025 Anamcara. All rights reserved.</p>
         </div>
